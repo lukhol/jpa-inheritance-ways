@@ -9,7 +9,6 @@ import com.lukhol.hibernate.inheritance.tableperclass.Customer;
 import com.lukhol.hibernate.inheritance.tableperclass.UserAggregator;
 import lombok.RequiredArgsConstructor;
 import org.hibernate.Session;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import javax.persistence.EntityManager;
